@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main() {
     printf("File in New Branch");
     return 0;
 }
